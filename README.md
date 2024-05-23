@@ -9,6 +9,7 @@
 Official code and data for ACL-2024 paper "X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions"
 
 ## 📢 News
+🔥[May 24, 2024] We have released X-Instruction dataset and models on [HuggingFace](https://huggingface.co/James-WYang/X-Instruction)
 
 ## 📝 Case Study
 
@@ -35,16 +36,16 @@ Official code and data for ACL-2024 paper "X-Instruction: Aligning Language Mode
 | Hindi (hi)      | 96.6 ± 79.9         | 1284.9 ± 506.2       | $32k$    |
 | Swahili (sw)    | 100.0 ± 85.3        | 1210.6 ± 524.0       | $32k$    |
 | Tamil (ta)      | 99.0 ± 84.8         | 1259.0 ± 497.8       | $32k$    |
-| Urdu (ur)       | 107.6 ± 87.4        | 1246.9 ± 508.8       | $32k$    |
+| Urdu (ur)       | 107.6 ± 87.4        | 1246.9 ± 508.8       | $32k$  
 
-
-#### The Statistic of the top 16 verbs (inner circle) and their top direct nouns (outer circle) in English instructions from X-Instruction.
-
+#### Statistic
 <p float="left">
-    <img src="assets/stat.png", width="100%">
+    <img src="assets/stat.png", width="50%">
 </p>
 
-### 🙋 How to get it
+> The Statistic of the top 16 verbs (inner circle) and their top direct nouns (outer circle) in English instructions from X-Instruction.
+
+## 🙋 How to get it
 📎 X-Instruction [Dataset](https://huggingface.co/James-WYang/X-Instruction)
 
 📎 X-Instruction Model: [7B](https://huggingface.co/James-WYang/X-Instruction) [13B](https://huggingface.co/James-WYang/X-Instruction)
