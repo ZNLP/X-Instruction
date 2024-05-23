@@ -110,6 +110,10 @@ And your beautiful conversation.
    ```bash
    bash ./scripts/inference.sh
    ```
+### 📌 ChatGPT Generate
+   ```bash
+   bash ./scripts/generate.sh
+   ```
 
 ### 📌 Automatic Evaluation
    ```bash
