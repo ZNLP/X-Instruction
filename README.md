@@ -99,7 +99,7 @@ And your beautiful conversation.
 📎 X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WYang/X-Instruction)
 
 ### Models
-📎 X-Instruction Model based on Gemma-7B [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/gemma-7b) 
+📎 X-Instruction Model based on Gemma-7B [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/gemma-7b/X-Instruction-7b-10langs) 
 
 📎 X-Instruction Model based on Llama3-8B  [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/llama3-8b)
 
