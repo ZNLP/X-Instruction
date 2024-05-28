@@ -138,7 +138,7 @@ Following Gemma, our pre-trained weights based on Gemma are released under under
 
 ## Acknowledgement
 
-We thank all contributors for X_Instruction project.
+We thank all contributors for X-Instruction project.
 
 This repo benefits from [LLaMA2](https://llama.meta.com/llama2/), [Gemma](https://github.com/google-deepmind/gemma). Thanks for their wonderful works.
 
