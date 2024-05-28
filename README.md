@@ -9,7 +9,7 @@
 Official code and data for ACL-2024 paper "X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions"
 
 ## 📢 News
-🔥[May 24, 2024] We have released X-Instruction dataset and models on our [🤗HuggingFace](https://huggingface.co/James-WYang/X-Instruction)
+🔥[May 24, 2024] We have released X-Instruction dataset and models on our [🤗HuggingFace](https://huggingface.co/James-WYang/)
 ## 📝 Case Study
 
 **English Instruction**
