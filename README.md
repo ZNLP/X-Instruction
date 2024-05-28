@@ -99,12 +99,11 @@ And your beautiful conversation.
 📎 X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WYang/X-Instruction)
 
 ### Models
-📎 X-Instruction Model based on Gemma-7B [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/gemma-7b/X-Instruction-7b-10langs) 
-
-📎 X-Instruction Model based on Llama3-8B  [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/llama3-8b)
-
-📎 X-Instruction Model based on Llama2-13B  [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/llama2-13b)
-
+|                 |                                   **all**                                   | **bn** | **fi** | **hi** | **id** | **sw** | **ta** | **th** | **tr** | **ur** | **vi** |
+|:---------------:|:---------------------------------------------------------------------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
+|   **Gemma-7b**  | [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction-7b-10langs) |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
+|  **Llama-3-8b** | [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction-8b-10langs) |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
+| **Llama-2-13b** |                                      -                                      |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
 
 ## 🛎 Getting Started
 ### 📌 Install dependencies
