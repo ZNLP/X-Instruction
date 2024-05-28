@@ -130,7 +130,7 @@ And your beautiful conversation.
 
 ## License
 
-Our code and documents are released under Apache Licence 2.0
+Our code and documents are released under Apache Licence 2.0.
 
 Following LLAMA2, our pre-trained weights based on LLAMA2 series are released under LLAMA2 Community License.
 
