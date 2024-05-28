@@ -9,8 +9,9 @@
 Official code and data for ACL-2024 paper "X-Instruction: Aligning Language Model in Low-resource Languages with Self-curated Cross-lingual Instructions"
 
 ## 📢 News
-🔥[May 24, 2024] We have released X-Instruction dataset and models on [HuggingFace](https://huggingface.co/James-WYang/X-Instruction)
-
+🔥[May 24, 2024] We have released X-Instruction [dataset](https://huggingface.co/datasets/James-WYang/X-Instruction)
+ and [models](https://huggingface.co/James-WYang/X-Instruction)
+ on 🤗HuggingFace
 ## 📝 Case Study
 
 **English Instruction**
@@ -94,9 +95,15 @@ And your beautiful conversation.
 > The Statistic of the top 16 verbs (inner circle) and their top direct nouns (outer circle) in English instructions from X-Instruction.
 
 ## 🙋 How to get it
-📎 X-Instruction [Dataset](https://huggingface.co/James-WYang/X-Instruction)
+### Dataset
+📎 X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WYang/X-Instruction)
 
-📎 X-Instruction Model: [7B](https://huggingface.co/James-WYang/X-Instruction) [13B](https://huggingface.co/James-WYang/X-Instruction)
+### Models
+📎 X-Instruction Model based on Gemma-7B [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/gemma-7b) 
+
+📎 X-Instruction Model based on Llama3-8B  [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/llama3-8b)
+
+📎 X-Instruction Model based on Llama2-13B  [🤗Huggingface](https://huggingface.co/James-WYang/X-Instruction/tree/main/llama2-13b)
 
 
 ## 🛎 Getting Started
@@ -110,6 +117,7 @@ And your beautiful conversation.
    ```bash
    bash ./scripts/inference.sh
    ```
+   
 ### 📌 ChatGPT Generate
    ```bash
    bash ./scripts/generate.sh
