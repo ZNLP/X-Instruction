@@ -130,9 +130,17 @@ And your beautiful conversation.
 
 ## License
 
+Our code and documents are released under Apache Licence 2.0
+
+Following LLAMA2, our pre-trained weights based on LLAMA2 series are released under LLAMA2 Community License.
+
+Following Gemma, our pre-trained weights based on Gemma are released under under Apache Licence 2.0.
+
 ## Acknowledgement
 
+We thank all contributors for X_Instruction project.
 
+This repo benefits from [LLaMA2](https://llama.meta.com/llama2/), [Gemma](https://github.com/google-deepmind/gemma). Thanks for their wonderful works.
 
 
 
