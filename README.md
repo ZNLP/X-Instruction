@@ -93,10 +93,10 @@ And your beautiful conversation.
 > The Statistic of the top 16 verbs (inner circle) and their top direct nouns (outer circle) in English instructions from X-Instruction.
 
 ## 🙋 How to get it
-### Dataset
-📎 X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WYang/X-Instruction)
+### 📎 Dataset
+X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WYang/X-Instruction)
 
-### Models
+### 📎 Models
 |                 |                                   **all**                                   | **bn** | **fi** | **hi** | **id** | **sw** | **ta** | **th** | **tr** | **ur** | **vi** |
 |:---------------:|:---------------------------------------------------------------------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |   **Gemma-7b**  | [🤗](https://huggingface.co/James-WYang/X-Instruction-7b-10langs) |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
