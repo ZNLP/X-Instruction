@@ -101,7 +101,7 @@ X-Instruction Dataset [🤗Huggingface](https://huggingface.co/datasets/James-WY
 |:---------------:|:---------------------------------------------------------------------------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|:------:|
 |   **Gemma-7b**  | [🤗](https://huggingface.co/James-WYang/X-Instruction-7b-10langs) |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
 |  **Llama-3-8b** | [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-10langs) | [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-bn)   | [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-fi)   |  [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-id)  |    [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-10langs)  |    [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-sw)  |   [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-ta)   |   [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-th)   |    [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-tr)   |    [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-ur)   |    [🤗](https://huggingface.co/James-WYang/X-Instruction-8b-vi)   |
-| **Llama-2-13b** |                                      -                                      |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
+| **Llama-2-13b** |  [🤗](https://huggingface.co/James-WYang/X-Instruction-13b-10langs)   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |    -   |
 
 ## 🛎 Getting Started
 ### 📌 Install dependencies
